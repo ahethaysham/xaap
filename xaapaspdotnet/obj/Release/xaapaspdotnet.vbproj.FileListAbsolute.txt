@@ -1,0 +1,11 @@
+C:\Users\ahmed\source\repos\xaapaspdotnet\xaapaspdotnet\bin\xaapaspdotnet.dll.config
+C:\Users\ahmed\source\repos\xaapaspdotnet\xaapaspdotnet\bin\xaapaspdotnet.dll
+C:\Users\ahmed\source\repos\xaapaspdotnet\xaapaspdotnet\bin\xaapaspdotnet.pdb
+C:\Users\ahmed\source\repos\xaapaspdotnet\xaapaspdotnet\bin\xaapaspdotnet.xml
+C:\Users\ahmed\source\repos\xaapaspdotnet\xaapaspdotnet\obj\Release\xaapaspdotnet.vbprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\xaapaspdotnet\xaapaspdotnet\obj\Release\xaapaspdotnet.Resources.resources
+C:\Users\ahmed\source\repos\xaapaspdotnet\xaapaspdotnet\obj\Release\xaapaspdotnet.vbproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\xaapaspdotnet\xaapaspdotnet\obj\Release\xaapaspdotnet.vbproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\xaapaspdotnet\xaapaspdotnet\obj\Release\xaapaspdotnet.dll
+C:\Users\ahmed\source\repos\xaapaspdotnet\xaapaspdotnet\obj\Release\xaapaspdotnet.xml
+C:\Users\ahmed\source\repos\xaapaspdotnet\xaapaspdotnet\obj\Release\xaapaspdotnet.pdb
